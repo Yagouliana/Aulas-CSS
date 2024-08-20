@@ -1,0 +1,33 @@
+/* Alterando cor por nome */
+
+.Nome{
+    background-color: blueviolet;
+    color: aquamarine;
+}
+
+/* Alterando cor por Hexadecimal */
+
+.Hexadecimal{
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+}
+
+/* Alterando cor por RGBA */ 
+
+.RGBA{
+    background-color: rgba(151, 135, 255, 0.2);
+    color: rgb(104, 104, 122);
+}
+
+/* Alterando a segunda página */
+.title-background{
+    background-color: rgb(255, 196, 0);
+    
+
+}
+
+.div-background{
+    background-image: url(images.jpg);
+    height: 300px;
+    width: 1400px;
+}
