@@ -1,0 +1,28 @@
+/* Adicionando Css */
+/* Com seletor tag */
+
+h1{
+    color: rgb(255, 80, 80);
+    font-size: 20px;
+}
+
+p{
+    font-weight: bolder;
+}
+
+/* Adicionando Css */
+/* Com seletor Id */
+/* Id não pode ser compartilhado */
+
+#paragrafo2{
+
+    color: rgb(164, 4, 42);
+}
+
+/* Adicionando Css */
+/* com seletor css */
+.p-texto{
+
+color: plum;
+font-size: 15px;
+}
