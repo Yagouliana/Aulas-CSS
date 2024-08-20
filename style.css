@@ -1,0 +1,19 @@
+/* Usando CSS exemplo */
+h1{
+    /* font-size serve para mudar o tamanho da fonte */
+    color: rgb(195, 0, 255);
+    font-size: 40px;
+}
+
+h2{
+
+    color: rgb(128, 0, 156);
+    font-size: 25px;
+}
+
+p{
+    color: rgb(92, 92, 92);
+    color: rgb(72, 72, 72);
+    
+}
+
